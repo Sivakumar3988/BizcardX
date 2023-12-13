@@ -28,12 +28,20 @@ Run the application using streamlit run your_script_name.py.
 Access the application through the provided URL in the terminal.
 
 Dependencies:
-Streamlit: 0.89.0
-MySQL Connector: 8.0.23
-EasyOCR: 1.3.2
-Requests: 2.25.1
-Pillow: 8.0.1
-OpenCV: 4.4.0
-Pandas: 1.1.3
-SQLAlchemy: 1.3.20
-NumPy: 1.19.2
+Streamlit
+
+MySQL Connector
+
+EasyOCR
+
+Requests
+
+Pillow
+
+OpenCV
+
+Pandas
+
+SQLAlchemy
+
+NumPy
